@@ -1249,7 +1249,7 @@ footer {
     opacity: 0.5;
 }
 
-@media(max-width: 1280px) {
+@media(max-width: 1024px) {
     h1 {
         font-size: 36px;
     }
@@ -1265,8 +1265,9 @@ footer {
         font-size: 16px;
     }
     .header__img--wrapper {
-        display: flex;
-        justify-content: flex-end;
+       width: 100%;
+       max-width: 512px;
+       margin: 0 auto;
     }
     .header__img {
         max-width: 512px;

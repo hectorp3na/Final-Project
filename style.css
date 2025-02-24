@@ -1260,6 +1260,10 @@ footer {
         align-items: center;
     }
 
+    .header__wrapper {
+        display: flex;
+    }
+
 
     .header__description--para {
         font-size: 16px;

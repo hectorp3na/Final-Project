@@ -21,6 +21,12 @@ body {
     flex-direction: column;
 }
 
+.row__nav--row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .row__narrow {
     width: 100%;
     max-width: 1024px;
@@ -115,9 +121,6 @@ NAVBAR
 */
 
 nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-top: 32px;
 }
 
@@ -130,6 +133,8 @@ nav {
     display: flex;
     align-items: center;
     padding-bottom: 2px;
+    justify-content: space-around;
+    width: 50%;
 }
 
 .nav__link {
@@ -1248,6 +1253,14 @@ footer {
     h1 {
         font-size: 36px;
     }
+    .header__description {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
     .header__description--para {
         font-size: 16px;
     }

@@ -301,6 +301,9 @@ header .row{
     width: 41.6667%;
 }
 
+.header__wrapper {
+    display: flex;
+
 .header__img--wrapper {
     width: calc(100% - 31.6667%);
 }
@@ -1260,8 +1263,6 @@ footer {
         align-items: center;
     }
 
-    .header__wrapper {
-        display: flex;
     }
 
 

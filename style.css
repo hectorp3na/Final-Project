@@ -13,6 +13,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 .row {
     width: 100%;
     max-width: 1200px;
@@ -50,6 +52,16 @@ h1 {
     font-size: 48px;
     color: #1a202c;
     line-height: 1.25;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
 }
 
 .purple {

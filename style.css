@@ -303,6 +303,7 @@ header .row{
 
 .header__wrapper {
     display: flex;
+}
 
 .header__img--wrapper {
     width: calc(100% - 31.6667%);
@@ -1295,7 +1296,7 @@ footer {
     .testimonials__description {
         width: calc(100% - 41.6667%);
     }
-}
+
 
 @media (max-width: 1024px) {
     .nav__links {

@@ -335,11 +335,13 @@ header .row{
 }
 
 .header__description {
-    width: 41.6667%;
+    width: 50%;
 }
 
 .header__wrapper {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header__img--wrapper {

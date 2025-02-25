@@ -522,6 +522,12 @@ QUALITY
     align-items: center;
 }
 
+.quality-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #quality .section__title,
 #values .section__title {
     line-height: 1.25;
@@ -529,7 +535,7 @@ QUALITY
 
 .quality__description,
 .quality__img--wrapper {
-    width: 50%;
+    width: 40%;
 }
 
 .quality__description {
@@ -548,6 +554,7 @@ QUALITY
     margin: 0 56px;
     z-index: 2;
     display: flex;
+    width: 40%;
 }
 
 .quality__img {

@@ -1198,6 +1198,7 @@ footer {
     cursor: pointer;
 }
 
+
 .footer__column--link:after {
     content: "";
     position: absolute;

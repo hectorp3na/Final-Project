@@ -30,7 +30,7 @@ body {
     
 }
 
-.row__nav--row{
+.nav--row{
     display: flex;
     justify-content: space-between;
     

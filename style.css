@@ -705,10 +705,10 @@ width: 50%;
 }
 
 .value__img--wrapper {
-    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 50%;
 }
 
 .value:nth-child(1) .valau__img--wrappper {

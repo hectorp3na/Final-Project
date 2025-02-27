@@ -133,7 +133,7 @@ img {
     width: 100%;
 }
 
-svg [Attributes Style] {
+svg [Attributes-Style] {
     width: 24;
     height: 24;
     fill: none;
@@ -711,7 +711,7 @@ width: 50%;
     border-radius: 50%;
 }
 
-.value:nth-child(1) .valau__img--wrappper {
+.value:nth-child(1) .value__img--wrapper {
     background-color: #9ae6b4;
 }
 
@@ -1318,6 +1318,8 @@ footer {
     }
 
     }
+
+
 
 
     .header__description--para {
